@@ -2,3 +2,6 @@
 
 *.swp
 .idea
+
+# Ignore local `nix build .#bdk-cli` output
+result
